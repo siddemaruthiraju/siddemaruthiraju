@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sidde Maruthiraju 👋
 
-<!--
-**siddemaruthiraju/siddemaruthiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineer | AWS SAA-C03 Candidate | B.Tech CSE 2024 | Hyderabad**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+
+- 📚 Studying for AWS SAA-C03 (Exam: Sep 2026)
+- ✍️ Pushing daily notes to [aws-saa-notes](https://github.com/siddemaruthiraju/aws-saa-notes)
+- 🔨 3 cloud projects coming soon
+
+---
+
+## ☁️ Skills
+
+**AWS:** EC2, S3, VPC, Lambda, RDS, IAM, CloudWatch, CloudFront, DynamoDB, API Gateway  
+**Tools:** Git, GitHub, Docker, Linux, Python, Bash
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddemaruthiraju)  
+📍 Hyderabad | Open to Cloud Engineer roles — Hyderabad or Remote
